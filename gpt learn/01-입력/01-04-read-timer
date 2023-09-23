@@ -1,0 +1,4 @@
+#!/bin/bash
+
+read -r -t 5 -p "You have 5 seconds to enter your name: " name
+echo "Hello, $name"
